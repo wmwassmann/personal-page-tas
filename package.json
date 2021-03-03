@@ -1,0 +1,19 @@
+{
+  "name": "personal-page-tas",
+  "version": "1.0.0",
+  "description": "Tia Alexandra Smith Homepage",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmwassmann/personal-page-tas.git"
+  },
+  "author": "William Wassmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmwassmann/personal-page-tas/issues"
+  },
+  "homepage": "https://github.com/wmwassmann/personal-page-tas#readme"
+}
