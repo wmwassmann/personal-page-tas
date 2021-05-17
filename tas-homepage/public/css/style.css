@@ -1,0 +1,16 @@
+html {      
+    height: 100%;     
+    overflow: hidden;
+    background: radial-gradient(ellipse at bottom, rgba(102, 102, 102, 0.88) 0%, #131313 100% )
+}
+
+
+body {          
+    height: 100%;     
+    overflow: hidden;      
+    background-image: url('../img/vortex-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+ 
+}
